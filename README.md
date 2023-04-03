@@ -9,7 +9,7 @@ omdb api .
 
 # live Demo
 
-live demo link
+live demo link(https://mwaniel.github.io/movies_app)
 # Getting started
 
 To get a local copy up and running follow simple example steps.
