@@ -11,10 +11,10 @@ const Footer = () => {
                 <span class="text-warning font-weight-normal">
                     Daniel  Mwaniki
                 </span>
-                ,Using <i class="fab fa-react"/> React JS &amp; Redux JS and OMDB Api,  <br/> 
-               <div class="col-md-12"><FeedBack/></div>
+                ,Using <i class="fab fa-react"/> React JS &amp; Redux JS and OMDB Api, 
+              
             </div>
-            
+            <div><FeedBack/></div>
             </div>
         </div>
     </div>
