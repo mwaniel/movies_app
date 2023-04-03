@@ -1,4 +1,5 @@
 import React from 'react'
+import FeedBack from '../home/FeedBack';
 
 const Footer = () => {
   return (
@@ -11,7 +12,7 @@ const Footer = () => {
                     Daniel  Mwaniki
                 </span>
                 ,Using <i class="fab fa-react"/> React JS &amp; Redux JS and OMDB Api,  <br/> 
-                <a href='#'>Give a feedback</a>
+               <div class="col-md-12"><FeedBack/></div>
             </div>
             
             </div>
